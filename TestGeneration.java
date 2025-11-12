@@ -19,5 +19,5 @@ public class TestGeneration {
             System.out.print(df.format(top.get(i).getFitness()));
         }
         System.out.println();
-    }
+    } 
 }
